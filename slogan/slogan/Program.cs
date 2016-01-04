@@ -33,7 +33,8 @@ namespace slogan
             "{0} - Einfach genial.",
             "Freu dich auf {0}.",
             "{0} is my sport.",
-            "Be part of {0}."
+            "Be part of {0}.",
+            "{0} makes you happy."
         };
 
         static void Main(string[] args)
